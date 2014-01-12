@@ -9,3 +9,5 @@ target
 *.swp
 .nrepl-port
 .lein-plugins/
+/project.clj~
+/.lein-failures
